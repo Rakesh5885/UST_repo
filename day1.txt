@@ -1,0 +1,6 @@
+l1 =basic troubleshooting and ticket 
+
+
+stages in ticket lifecycle
+1 ticket open
+ 
